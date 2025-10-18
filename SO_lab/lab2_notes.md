@@ -1,4 +1,3 @@
-Absolut! Iată un set de note de studiu structurate, extrase din documentul PDF furnizat, concentrându-se pe conceptele cheie legate de sistemele de operare și shell scripting în mediul UNIX/Linux.
 
 # 📚 Note de Studiu
 
