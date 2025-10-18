@@ -12,9 +12,3 @@
     <img src="https://img.shields.io/badge/SO_lab-50E3C2?style=for-the-badge&logo=linux&logoColor=black" alt="SO Laborator">
   </a>
 </p>
-
----
-
-### Despre acest repository
-* Aici voi stoca notițe, cursuri și laboratoare.
-* Momentan conține... (adaugă tu descrierea)
