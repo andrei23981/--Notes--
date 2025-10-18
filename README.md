@@ -1,7 +1,7 @@
 # 📚 NOTIŢE Cursuri || Laboratoare
 
 <p align="center">
-  Bine ai venit la furat! 😂
+  Dacă ai venit aici ești și tu pierdut, bine ai venit la furat!🥹
   <br><br>
   
   <a href="./P3_curs">
