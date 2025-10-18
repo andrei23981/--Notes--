@@ -1,8 +1,6 @@
 # 📚 NOTIŢE Cursuri || Laboratoare
 
 <p align="center">
-
-  <br><br>
   
   <a href="./P3_curs">
     <img src="https://img.shields.io/badge/Programare_3-005F73?style=for-the-badge" alt="P3 Curs">
