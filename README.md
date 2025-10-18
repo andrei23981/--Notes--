@@ -1,7 +1,7 @@
-# 📚 Proiecte și Laboratoare
+# 📚 NOTIŢE Cursuri || Laboratoare
 
 <p align="center">
-  Bine ai venit! Alege unul din folderele de mai jos pentru a naviga:
+  Bine ai venit la furat! 😂
   <br><br>
   
   <a href="./P3_curs">
