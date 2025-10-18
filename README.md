@@ -9,6 +9,6 @@
   </a>
   
   <a href="./SO_lab">
-    <img src="https://img.shields.io/badge/Sisteme_de_operare-005F73?style=for-the-badge" alt="SO Laborator">
+    <img src="https://img.shields.io/badge/Sisteme_de_operare_I-005F73?style=for-the-badge" alt="SO Laborator">
   </a>
 </p>
