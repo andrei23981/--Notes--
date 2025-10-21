@@ -9,4 +9,8 @@
   <a href="./SO_lab">
     <img src="https://img.shields.io/badge/Sisteme_de_operare_I-005F73?style=for-the-badge" alt="SO Laborator">
   </a>
+
+  <a href="./PS_curs">
+    <img src="https://img.shields.io/badge/Probabilitati_si_statistica_-005F73?style=for-the-badge" alt="PS Curs">
+  </a>
 </p>
